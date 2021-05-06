@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>values
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <declare-styleable name="LikeView">
     <attr format="color" name="defaultColor"></attr>
