@@ -1,0 +1,3 @@
+rootProject.name = "LikeView"
+include ':app'
+include ':lib'
